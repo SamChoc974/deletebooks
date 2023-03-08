@@ -1,8 +1,8 @@
-print('deleting all my book library the 9th march')
-print('do i feel confident rn?1')
+print('deleting all my book library')
+
 import os
 
-filepath = '/users/samantha/Desktop/Books/minibooks'
+filepath = '/users/NAME/Desktop/Books/minibooks'
 dir_list = os.listdir(filepath)
 count = 0
 books = filepath
